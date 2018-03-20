@@ -1,0 +1,4 @@
+Phoneword.MainActivity, Phoneword;md5eb8cee9bb2852617ab2e56c7bf729ae8.MainActivity
+Phoneword.MainActivity, Phoneword, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb8cee9bb2852617ab2e56c7bf729ae8.MainActivity
+Phoneword.MainActivity;md5eb8cee9bb2852617ab2e56c7bf729ae8.MainActivity
+phoneword.MainActivity;md5eb8cee9bb2852617ab2e56c7bf729ae8.MainActivity

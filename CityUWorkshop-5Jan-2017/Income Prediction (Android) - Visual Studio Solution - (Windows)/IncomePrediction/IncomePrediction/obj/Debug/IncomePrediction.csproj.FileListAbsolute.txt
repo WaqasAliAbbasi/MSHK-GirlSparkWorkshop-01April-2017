@@ -1,0 +1,103 @@
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\IncomePrediction.dll
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\IncomePrediction.pdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\IncomePrediction.IncomePrediction.apk
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\IncomePrediction.IncomePrediction-Signed.apk
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\Newtonsoft.Json.dll
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\Newtonsoft.Json.xml
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\IncomePrediction.csprojResolveAssemblyReference.cache
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\IncomePrediction.dll
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\IncomePrediction.pdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\bin\IncomePrediction.IncomePrediction.apk
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\res\layout\main.xml
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\res\values\strings.xml
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\res\drawable\icon.png
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\res\drawable-hdpi\icon.png
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\res\drawable-mdpi\icon.png
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\res\drawable-xhdpi\icon.png
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\res\drawable-xxxhdpi\icon.png
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\R.cs.flag
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\uploadflags.txt
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\IncomePredictionAgain.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\Java.Interop.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\Mono.Android.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\Mono.CSharp.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\mscorlib.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\System.Core.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\System.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\System.Net.Http.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\System.Xml.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\System.Xml.Linq.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\IncomePredictionAgain.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\System.Core.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\System.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\bin\Debug\IncomePrediction.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\android\assets\IncomePrediction.dll.mdb
+D:\IncomePredictionAgain\IncomePrediction\obj\Debug\IncomePrediction.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\IncomePrediction.dll
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\IncomePrediction.pdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\IncomePrediction.IncomePrediction.apk
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\IncomePrediction.IncomePrediction-Signed.apk
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\IncomePrediction.dll
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\IncomePrediction.pdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\bin\IncomePrediction.IncomePrediction.apk
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\res\layout\main.xml
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\res\values\strings.xml
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\res\drawable\icon.png
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\res\drawable-hdpi\icon.png
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\res\drawable-mdpi\icon.png
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\res\drawable-xxxhdpi\icon.png
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\R.cs.flag
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\uploadflags.txt
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\IncomePrediction.csprojResolveAssemblyReference.cache
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\Java.Interop.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\Mono.Android.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\Mono.CSharp.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\mscorlib.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\System.Core.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\System.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\System.Net.Http.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\System.Xml.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\System.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\obj\Debug\IncomePrediction.dll.mdb
+D:\Dev\MSP\MSHK-CityUWorkshop-5Jan-2017\Income Prediction (Android) - Visual Studio Solution - (Windows)\IncomePrediction\IncomePrediction\bin\Debug\IncomePrediction.dll.mdb

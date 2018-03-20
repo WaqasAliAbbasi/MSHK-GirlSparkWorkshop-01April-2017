@@ -1,0 +1,63 @@
+{
+    "title": "USA Income Class Prediction",
+    "sections": [
+        {
+            "header": "Web service input",
+            "elements": [
+                
+                {
+                    "type": "entry",
+                    "caption": "Age",
+                    "value": "",
+                    "placeholder": "18",
+                    "keyboard": "numbers"
+                },
+
+                {
+                    "type": "entry",
+                    "caption": "Education",
+                    "value": "",
+                    "placeholder": "Bachelors"
+                },
+
+                {
+                    "type": "entry",
+                    "caption": "Marital Status",
+                    "value": "",
+                    "placeholder": "Never-married"
+                },
+
+                {
+                    "type": "entry",
+                    "caption": "Race",
+                    "value": "",
+                    "placeholder": "White"
+                },
+                
+                {
+                    "type": "entry",
+                    "caption": "Gender",
+                    "value": "",
+                    "placeholder": "Male"
+                },
+                
+
+
+                {
+                    "type": "entry",
+                    "caption": "Native Country",
+                    "value": "",
+                    "placeholder": "Canada"
+                },
+                
+                {
+                    "type": "string",
+                    "caption": "Submit Request",
+                    "ontap": "MLworkshop.AppDelegate.Callback",
+                    "accessory": "checkmark",
+                    "background": "#C7C7CC"
+                }
+            ]
+        }
+    ]
+}

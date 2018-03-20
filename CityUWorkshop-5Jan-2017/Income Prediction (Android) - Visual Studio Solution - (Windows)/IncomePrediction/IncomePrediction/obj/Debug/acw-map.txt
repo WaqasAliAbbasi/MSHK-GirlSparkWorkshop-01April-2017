@@ -1,0 +1,4 @@
+IncomePrediction.MainActivity, IncomePrediction;md51e1c65a678c951fe1fbbcee4a67c64a0.MainActivity
+IncomePrediction.MainActivity, IncomePrediction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51e1c65a678c951fe1fbbcee4a67c64a0.MainActivity
+IncomePrediction.MainActivity;md51e1c65a678c951fe1fbbcee4a67c64a0.MainActivity
+incomeprediction.MainActivity;md51e1c65a678c951fe1fbbcee4a67c64a0.MainActivity
